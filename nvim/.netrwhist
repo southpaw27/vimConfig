@@ -1,0 +1,6 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =4
+let g:netrw_dirhist_1='/Users/kelan07/projects/churro'
+let g:netrw_dirhist_2='/Users/kelan07/projects/churro/pages'
+let g:netrw_dirhist_3='/Users/kelan07/projects/churro/pages/inventory'
+let g:netrw_dirhist_4='/Users/kelan07/projects/churro/pages/inventory/containers'
