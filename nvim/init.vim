@@ -23,6 +23,7 @@ Plug 'kien/ctrlp.vim'
 Plug 'bling/vim-airline'
 Plug 'altercation/vim-colors-solarized'
 Plug 'pangloss/vim-javascript'
+Plug 'flazz/vim-colorschemes'
 
 " Add plugins to &runtimepath
 call plug#end()
